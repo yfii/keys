@@ -21,3 +21,6 @@ https://gnosis-safe.io/app/#/safes/0xc487E91aac75D048EeACA7360E479Ae7cCEa0b86
 | Sahaj Garg (sz) | 0x9A600B5bf8EE377E31FAF4e2aae50A3DF172D0AA | [twitter](https://twitter.com/szsahaj/status/1289470130921934848)     |   [signed message](0x9A600B5bf8EE377E31FAF4e2aae50A3DF172D0AA.json)   |
 | Jun Yi | 0x00E4D0cfBe2C19Fd22F0bA80a8cD9A58C8F757fA |  [twitter](https://twitter.com/LuffytaroX/status/1289465763720359936?s=20)    |  [signed message](0x00E4D0cfBe2C19Fd22F0bA80a8cD9A58C8F757fA.json)   |
  
+
+## ipfs 
+https://gateway.ipfs.io/ipfs/QmNqb94wqhZDqAsfPCkqSZJCAAbLAxwSYxmkQ1Lq9KwEEr/Multi-sign%20contract%20_%20keys.html
